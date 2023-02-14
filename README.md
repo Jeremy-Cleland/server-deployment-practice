@@ -11,7 +11,7 @@ Basic API Server where we write some middleware and practice deployment
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/Jeremy-Cleland/server-deployment-practice/actions)
-- Dev [back-end server URL](https://d51-practice.onrender.com)
+- Dev [back-end server URL](https://jcleland-lab01.onrender.com)
 
 ### Setup
 
